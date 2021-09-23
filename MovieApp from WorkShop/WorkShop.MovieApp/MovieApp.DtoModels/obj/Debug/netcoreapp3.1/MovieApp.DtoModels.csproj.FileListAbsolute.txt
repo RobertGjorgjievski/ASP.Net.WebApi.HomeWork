@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DtoModels\bin\Debug\netcoreapp3.1\MovieApp.DtoModels.deps.json
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DtoModels\bin\Debug\netcoreapp3.1\MovieApp.DtoModels.dll
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DtoModels\bin\Debug\netcoreapp3.1\MovieApp.DtoModels.pdb
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DtoModels\bin\Debug\netcoreapp3.1\MovieApp.Domain.dll
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DtoModels\bin\Debug\netcoreapp3.1\MovieApp.Domain.pdb
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DtoModels\obj\Debug\netcoreapp3.1\MovieApp.DtoModels.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DtoModels\obj\Debug\netcoreapp3.1\MovieApp.DtoModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DtoModels\obj\Debug\netcoreapp3.1\MovieApp.DtoModels.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DtoModels\obj\Debug\netcoreapp3.1\MovieApp.DtoModels.AssemblyInfo.cs
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DtoModels\obj\Debug\netcoreapp3.1\MovieApp.DtoModels.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DtoModels\obj\Debug\netcoreapp3.1\MovieApp.DtoModels.csproj.CopyComplete
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DtoModels\obj\Debug\netcoreapp3.1\MovieApp.DtoModels.dll
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DtoModels\obj\Debug\netcoreapp3.1\MovieApp.DtoModels.pdb

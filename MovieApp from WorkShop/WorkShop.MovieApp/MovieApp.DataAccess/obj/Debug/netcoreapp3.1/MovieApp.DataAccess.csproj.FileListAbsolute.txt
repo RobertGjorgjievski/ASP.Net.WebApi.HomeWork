@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DataAccess\bin\Debug\netcoreapp3.1\MovieApp.DataAccess.deps.json
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DataAccess\bin\Debug\netcoreapp3.1\MovieApp.DataAccess.dll
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DataAccess\bin\Debug\netcoreapp3.1\MovieApp.DataAccess.pdb
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DataAccess\bin\Debug\netcoreapp3.1\MovieApp.Domain.dll
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DataAccess\bin\Debug\netcoreapp3.1\MovieApp.Domain.pdb
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DataAccess\obj\Debug\netcoreapp3.1\MovieApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DataAccess\obj\Debug\netcoreapp3.1\MovieApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DataAccess\obj\Debug\netcoreapp3.1\MovieApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DataAccess\obj\Debug\netcoreapp3.1\MovieApp.DataAccess.AssemblyInfo.cs
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DataAccess\obj\Debug\netcoreapp3.1\MovieApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DataAccess\obj\Debug\netcoreapp3.1\MovieApp.DataAccess.csproj.CopyComplete
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DataAccess\obj\Debug\netcoreapp3.1\MovieApp.DataAccess.dll
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DataAccess\obj\Debug\netcoreapp3.1\MovieApp.DataAccess.pdb
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DataAccess\bin\Debug\netcoreapp3.1\MovieApp.DataAccess.runtimeconfig.json
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DataAccess\bin\Debug\netcoreapp3.1\MovieApp.DataAccess.runtimeconfig.dev.json
+C:\Users\User\Desktop\MovieApp from WorkShop\WorkShop.MovieApp\MovieApp.DataAccess\obj\Debug\netcoreapp3.1\MovieApp.DataAccess.genruntimeconfig.cache
